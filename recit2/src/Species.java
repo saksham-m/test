@@ -27,8 +27,8 @@ public class Species {
 			growth_rate = 1;
 		else if (growth>20)
 			growth_rate = 20;
-	
-		else growth_rate = 1;
+		
+		
 		
 	}
 
